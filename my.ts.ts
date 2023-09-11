@@ -1,6 +1,5 @@
-let g = "dien tich hinh tam giac";
-let h = "chu vi hinh tam giac";
-let a = 4;
+let o = "dien tich hinh thoi";
+let n = "chu vi hinh thoi";
+let canh = 4;
 let b = 4;
-let c = 2;
-console.log(h, a + b + c);
+console.log(n, canh * 4);

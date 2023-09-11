@@ -1,14 +1,1 @@
-let hovaten = "Hang";
-let tuoi = 21;
-let diachi = "kiet 56 duy tan";
-let gmail = "20T6070009@husc.edu";
-let lop = "xa hoi hoc";
-let gioitinh = false;
-let masinhvien = "20T6070009";
-console.log(hovaten);
-console.log(tuoi);
-console.log(diachi);
-console.log(gmail);
-console.log(lop);
-console.log(gioitinh);
-console.log(masinhvien);
+

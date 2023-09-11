@@ -1,6 +1,6 @@
-let e = "dien tich hinh binh hanh";
-let f = "chu vi hinh binh hanh";
-let dai = 4;
-let rong = 4;
-let a = 2;
-console.log(f, (dai + rong) * a);
+let g = "dien tich hinh tam giac";
+let h = "chu vi hinh tam giac";
+let a = 4;
+let b = 4;
+let c = 2;
+console.log(h, a + b + c);
